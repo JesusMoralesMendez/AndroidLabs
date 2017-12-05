@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
 
     public void enviarTexto(View view) {
         database.setValue(textoCaptura.getText().toString());
-        Toast.makeText(MainActivity.this, "Buen trabajo",
+        Toast.makeText(MainActivity.this, "Buen trabajo :)",
                 Toast.LENGTH_SHORT).show();
         //Por si las flies
         //database.setValue("Otro texto");
