@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235692478092",
+    "firebase_url": "https://jesusproject-c4312.firebaseio.com",
+    "project_id": "jesusproject-c4312",
+    "storage_bucket": "jesusproject-c4312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235692478092:android:3258019d64d1b2ee",
+        "android_client_info": {
+          "package_name": "base.andriod.jesusmorales.secosa.com.mx.andriodbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235692478092-v6gie8pm157ppuvppjt7vmg11usdri71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0coO55ISrfjmcOINp2zXT5NgHT1gKkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
